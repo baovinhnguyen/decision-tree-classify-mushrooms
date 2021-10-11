@@ -1,0 +1,171 @@
+Training mushroom with training size S=750, increment I=10, and using heuristic I.
+
+Running with 10 examples in training set.
+Given current tree, there are 4108 correct classifications out of 4894 possible (a success rate of 83.94% percent).
+Running with 20 examples in training set.
+Given current tree, there are 4249 correct classifications out of 4894 possible (a success rate of 86.82% percent).
+Running with 30 examples in training set.
+Given current tree, there are 4620 correct classifications out of 4894 possible (a success rate of 94.40% percent).
+Running with 40 examples in training set.
+Given current tree, there are 4814 correct classifications out of 4894 possible (a success rate of 98.37% percent).
+Running with 50 examples in training set.
+Given current tree, there are 4846 correct classifications out of 4894 possible (a success rate of 99.02% percent).
+Running with 60 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 70 examples in training set.
+Given current tree, there are 4785 correct classifications out of 4894 possible (a success rate of 97.77% percent).
+Running with 80 examples in training set.
+Given current tree, there are 4805 correct classifications out of 4894 possible (a success rate of 98.18% percent).
+Running with 90 examples in training set.
+Given current tree, there are 4801 correct classifications out of 4894 possible (a success rate of 98.10% percent).
+Running with 100 examples in training set.
+Given current tree, there are 4837 correct classifications out of 4894 possible (a success rate of 98.84% percent).
+Running with 110 examples in training set.
+Given current tree, there are 4817 correct classifications out of 4894 possible (a success rate of 98.43% percent).
+Running with 120 examples in training set.
+Given current tree, there are 4814 correct classifications out of 4894 possible (a success rate of 98.37% percent).
+Running with 130 examples in training set.
+Given current tree, there are 4829 correct classifications out of 4894 possible (a success rate of 98.67% percent).
+Running with 140 examples in training set.
+Given current tree, there are 4814 correct classifications out of 4894 possible (a success rate of 98.37% percent).
+Running with 150 examples in training set.
+Given current tree, there are 4817 correct classifications out of 4894 possible (a success rate of 98.43% percent).
+Running with 160 examples in training set.
+Given current tree, there are 4797 correct classifications out of 4894 possible (a success rate of 98.02% percent).
+Running with 170 examples in training set.
+Given current tree, there are 4849 correct classifications out of 4894 possible (a success rate of 99.08% percent).
+Running with 180 examples in training set.
+Given current tree, there are 4846 correct classifications out of 4894 possible (a success rate of 99.02% percent).
+Running with 190 examples in training set.
+Given current tree, there are 4837 correct classifications out of 4894 possible (a success rate of 98.84% percent).
+Running with 200 examples in training set.
+Given current tree, there are 4836 correct classifications out of 4894 possible (a success rate of 98.81% percent).
+Running with 210 examples in training set.
+Given current tree, there are 4837 correct classifications out of 4894 possible (a success rate of 98.84% percent).
+Running with 220 examples in training set.
+Given current tree, there are 4785 correct classifications out of 4894 possible (a success rate of 97.77% percent).
+Running with 230 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 240 examples in training set.
+Given current tree, there are 4849 correct classifications out of 4894 possible (a success rate of 99.08% percent).
+Running with 250 examples in training set.
+Given current tree, there are 4856 correct classifications out of 4894 possible (a success rate of 99.22% percent).
+Running with 260 examples in training set.
+Given current tree, there are 4846 correct classifications out of 4894 possible (a success rate of 99.02% percent).
+Running with 270 examples in training set.
+Given current tree, there are 4846 correct classifications out of 4894 possible (a success rate of 99.02% percent).
+Running with 280 examples in training set.
+Given current tree, there are 4814 correct classifications out of 4894 possible (a success rate of 98.37% percent).
+Running with 290 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 300 examples in training set.
+Given current tree, there are 4833 correct classifications out of 4894 possible (a success rate of 98.75% percent).
+Running with 310 examples in training set.
+Given current tree, there are 4846 correct classifications out of 4894 possible (a success rate of 99.02% percent).
+Running with 320 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 330 examples in training set.
+Given current tree, there are 4849 correct classifications out of 4894 possible (a success rate of 99.08% percent).
+Running with 340 examples in training set.
+Given current tree, there are 4849 correct classifications out of 4894 possible (a success rate of 99.08% percent).
+Running with 350 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 360 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 370 examples in training set.
+Given current tree, there are 4817 correct classifications out of 4894 possible (a success rate of 98.43% percent).
+Running with 380 examples in training set.
+Given current tree, there are 4833 correct classifications out of 4894 possible (a success rate of 98.75% percent).
+Running with 390 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 400 examples in training set.
+Given current tree, there are 4846 correct classifications out of 4894 possible (a success rate of 99.02% percent).
+Running with 410 examples in training set.
+Given current tree, there are 4846 correct classifications out of 4894 possible (a success rate of 99.02% percent).
+Running with 420 examples in training set.
+Given current tree, there are 4856 correct classifications out of 4894 possible (a success rate of 99.22% percent).
+Running with 430 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 440 examples in training set.
+Given current tree, there are 4833 correct classifications out of 4894 possible (a success rate of 98.75% percent).
+Running with 450 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 460 examples in training set.
+Given current tree, there are 4856 correct classifications out of 4894 possible (a success rate of 99.22% percent).
+Running with 470 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 480 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 490 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 500 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 510 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 520 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 530 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 540 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 550 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 560 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 570 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 580 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 590 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 600 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 610 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 620 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 630 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 640 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 650 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 660 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 670 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 680 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 690 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 700 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 710 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 720 examples in training set.
+Given current tree, there are 4879 correct classifications out of 4894 possible (a success rate of 99.69% percent).
+Running with 730 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 740 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Running with 750 examples in training set.
+Given current tree, there are 4886 correct classifications out of 4894 possible (a success rate of 99.84% percent).
+Branch [0]: Attrib #4: m; Poison.
+Branch [0]: Attrib #4: a; Edible.
+Branch [0]: Attrib #4: f; Poison.
+Branch [0]: Attrib #4: p; Poison.
+Branch [0]: Attrib #4: l; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: u; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: r; Poison.
+Branch [0]: Attrib #4: n; Attrib #19: w; Attrib #2: g; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: w; Attrib #2: p; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: w; Attrib #2: y; Poison.
+Branch [0]: Attrib #4: n; Attrib #19: w; Attrib #2: w; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: w; Attrib #2: n; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: w; Attrib #2: b; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: w; Attrib #2: e; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: w; Attrib #2: c; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: n; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: k; Edible.
+Branch [0]: Attrib #4: n; Attrib #19: h; Edible.
+Branch [0]: Attrib #4: c; Poison.
